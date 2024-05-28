@@ -6,7 +6,6 @@ meu nome é Maria
 * estou deselvolvendo projetos no JavaScript
 
 * utilizo esse espaço para a organização dos meus projetos
-  
 <!--
 **Millayya/Millayya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
